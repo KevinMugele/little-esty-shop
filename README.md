@@ -121,7 +121,7 @@ Little Esty Shop allowed us to apply priniciples of flow control across multiple
     Use Ctrl-C to stop
 
     ```
-* [Heroku Deployment](https://floating-earth-36791.herokuapp.com/), for production
+* [Heroku Deployment](https://calm-sierra-63255.herokuapp.com/), for production
 
 ### <ins>Contributors</ins>
 <p>
