@@ -16,13 +16,16 @@
 
 ### <ins>Overview</ins>
 
-[Little Esty Shop](https://github.com/hschmid516/little-esty-shop) is a 10-day, 4 person project, during Mod 2 of 4 for Turing School's Back End Engineering Program.
+[Little Esty Shop](https://github.com/hschmid516/little-esty-shop) is a 10-day, 4 person project, during Mod 2 of 4 for Turing School's Back End Engineering Program. 
+
+There was also a solo extension project, completed by Kevin Mugele. 
 
 Our challenge was to build a functioning web app consisting of multiple relational databases to model the popular e-commerce web site *Little Etsy Shop*.
 
 Little Esty Shop allowed us to apply priniciples of flow control across multiple methods, design one-to-many relationships using [DB Designer](https://www.dbdesigner.net/), and write migrations to create tables with columns of varying data types and foreign keys. Ruby on Rails helped give us a framework to create instance and class methods on a Rails model that uses ActiveRecord methods and helpers, letting our users experience CRUD functionality through our application. By maintaining a TDD mindset, we were able to make sure our features and models were being test consitently throughout the development process.
 
 [Technical Requirements](https://github.com/turingschool-examples/little-esty-shop/blob/main/doc/user_stories.md)
+[Extension] (https://backend.turing.edu/module2/projects/bulk_discounts)
 
 #### Framework
 <p>
